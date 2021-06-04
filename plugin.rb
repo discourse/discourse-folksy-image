@@ -3,6 +3,8 @@
 # version: 0.1
 # authors: Régis Hanol
 
+require "onebox"
+
 class Onebox::Engine::FolksyImageOnebox
   include Onebox::Engine
 
