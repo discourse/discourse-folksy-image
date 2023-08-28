@@ -1,4 +1,4 @@
-# name: discourse-folksy-images
+# name: discourse-folksy-image
 # about: inline images from folksy cdn
 # version: 0.1
 # authors: Régis Hanol
